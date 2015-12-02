@@ -1,0 +1,31 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "tutoriales de learnyounode",
+  "main": "helloWorld.js",
+  "dependencies": {
+    "bl": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cposada23/LearnYouNode_soluciones.git"
+  },
+  "keywords": [
+    "learyounode",
+    "tutoriales",
+    "freecodecamp",
+    "nodejs",
+    "npm",
+    "node"
+  ],
+  "author": "Camilo Posada Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cposada23/LearnYouNode_soluciones/issues"
+  },
+  "homepage": "https://github.com/cposada23/LearnYouNode_soluciones#readme"
+}
