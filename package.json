@@ -4,7 +4,8 @@
   "description": "tutoriales de learnyounode",
   "main": "helloWorld.js",
   "dependencies": {
-    "bl": "^1.0.0"
+    "bl": "^1.0.0",
+    "concat-stream": "^1.5.1"
   },
   "devDependencies": {},
   "scripts": {
