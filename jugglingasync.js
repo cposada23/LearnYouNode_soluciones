@@ -5,7 +5,7 @@ var http = require("http"),
 var resultados = [];
 
 
-/**/
+/*solucion con muchos callback*/
 var resultado = "";
 http.get(url1,function (response1) {
     response1.setEncoding("utf8");
@@ -50,6 +50,8 @@ function imprimirResultados() {
         console.log(resultados[i]);
     }
 }
+
+
 /**/
 
 /* Solucion oficial
